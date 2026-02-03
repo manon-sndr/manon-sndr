@@ -1,5 +1,7 @@
 # 💫 About Me:
-I'm a computer science student, in France. I'm studying to get a bachelor degree, and work on many languages. 
+* I'm a computer science student
+* Working on a bachelor degree
+* I'm working with different languages
 
 
 # 💻 Tech Stack:
